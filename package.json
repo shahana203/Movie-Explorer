@@ -1,5 +1,6 @@
 {
-  "name": "react-project",
+  "homepage": "https://shahana203.github.io/Movie-explorer/",
+   "name": "react-project",
   "private": true,
   "version": "0.0.0",
   "type": "module",
